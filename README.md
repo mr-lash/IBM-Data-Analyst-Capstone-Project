@@ -1,4 +1,9 @@
 # IBM-Data-Analyst-Capstone-Project
 
 
-It's a markdown file of this repository.
+In this project I analyze data from .....
+
+In order to work with the data propose, I used Python to scrap data ...
+
+
+Visualization with Python libraries like Matlplotlib and Seaborn ...
